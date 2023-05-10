@@ -41,3 +41,4 @@ PostalMap　利用規約・プライバシーポリシー
 連絡先メールアドレス　：　siniti4412@gmail.com
 
 # PostalMap
+# PostalMap
