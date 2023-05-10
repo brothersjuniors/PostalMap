@@ -47,3 +47,4 @@ PostalMap　利用規約・プライバシーポリシー
 # PostalMap
 # PostalMap
 # Postal
+# Postal
