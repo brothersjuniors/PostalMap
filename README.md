@@ -49,3 +49,4 @@ PostalMap　利用規約・プライバシーポリシー
 # Postal
 # Postal
 # Postal
+# MappApp
