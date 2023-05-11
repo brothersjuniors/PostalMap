@@ -51,3 +51,4 @@ PostalMap　利用規約・プライバシーポリシー
 # Postal
 # MappApp
 # MappApp
+# MappApp
